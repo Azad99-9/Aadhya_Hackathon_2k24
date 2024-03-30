@@ -60,7 +60,7 @@ By modernizing the RGUKT hostel complaint system, we aim to enhance the overall 
 
 ---
 
-Hackers please feel free to adjust the details, objectives, features, and evaluation criteria according to your specific requirements and preferences. This comprehensive problem statement provides participants with a clear understanding of the problem, objectives, expectations, and evaluation criteria for their submissions.
+Hackers please feel free to adjust the details, features according to your specific ideas and preferences. This comprehensive problem statement provides participants with a clear understanding of the problem, objectives, expectations, and evaluation criteria for their submissions.
 
 ---
 
