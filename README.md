@@ -1,8 +1,6 @@
 # Aadhya_Hackathon_2k24
 
-# [Hackathon Project Name]
-
-[One-liner description of your project]
+[Think, Build, and Collab]
 
 ---
 
